@@ -1,0 +1,2 @@
+# ProgrammingGuideFromScratch
+尝试完整指引从零开始的新手入门
