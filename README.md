@@ -5,3 +5,5 @@
 更新暂时先放在word文档里面。（划掉）
 
 已经着手改用md写
+
+Not currently recommended to fork.
